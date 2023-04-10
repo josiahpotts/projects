@@ -1,3 +1,7 @@
+#Author: Josiah Potts
+#Description: Run popular algorithmic problems LCS and Edit Distance on text documents.
+#               Type in terminal: python3 lcs-editDistance.py <FILENAME1> FILENAME2>
+
 import sys
 
 def file_contents_letters(file_name):
@@ -137,9 +141,3 @@ def lcs3(s1, s2, s3):
 s1 = file_contents_letters(sys.argv[1])
 s2 = file_contents_letters(sys.argv[2])
 print(edit_distance(s1, s2), lcs(s1, s2))
-
-#!!!!!!!!!!!!!!!!!ATTENTION!!!!!!!!!!!!!!!!!!ATTENTION!!!!!!!!!!!!!!!!!!#
-#!  QUESTION 3 SOLUTIONS:                                              !#
-#!    EDIT DISTANCE = 208                                              !#
-#!    LCS = 29703                                                      !#
-#!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!#
