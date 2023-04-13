@@ -20,3 +20,12 @@ Use:
   - Download all files into desired directory.
   - In terminal type 'python3 lcs-editDistance.py COVID-OmicronBA1.txt COVID-RefDec19.txt'
   - Results are printed in the console.
+  
+4/12/2023 - SimpleClientServerChat added
+There are two files within this directory, client.py and server.py, and they use sockets for a simple chatting program.
+Use:
+  - Download both files into the same desired directory.
+  - Run both files (order doesn't matter)
+  - Wait for the socket connection to be established (shouldn't take long)
+  - Once the client is connected to the server (localhost), the client will be prompted to begin the chat. 
+  - Alternate from the client terminal and the server terminal to chat.
