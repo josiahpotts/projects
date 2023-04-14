@@ -29,3 +29,14 @@ Use:
   - Wait for the socket connection to be established (shouldn't take long)
   - Once the client is connected to the server (localhost), the client will be prompted to begin the chat. 
   - Alternate from the client terminal and the server terminal to chat.
+  
+4/13/2023 - BasicReactWebApp directory added
+These files will run a basic web application, utilizing React, on your localhost.
+Use:
+  - Must have Node installed.
+  - Download the full directory (recommended)
+  - Open terminal and follow these steps:
+      1. cd BasicReactWebApp
+      2. npm install
+      3. npm start
+      
