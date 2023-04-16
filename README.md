@@ -40,3 +40,11 @@ Use:
       2. npm install
       3. npm start
       
+4/16/2023 - MaxSubarray directory added
+These directories and files run different algorithmic approaches to the maximum subarray problem.
+Use:
+  - Download desired directory including the .py file and all .txt files.
+  - Using the terminal within the chosen directory:
+      1. Type: python max_subarray_algs.py filename.txt (note: enumeration and iteration will take a significant amount of time to complete - O(n^3)
+      2. Example usage: python max_subarray_algs.py num_array_500.txt
+      
