@@ -45,6 +45,6 @@ These directories and files run different algorithmic approaches to the maximum 
 Use:
   - Download desired directory including the .py file and all .txt files.
   - Using the terminal within the chosen directory:
-      1. Type: python max_subarray_algs.py filename.txt (note: enumeration and iteration will take a significant amount of time to complete - O(n^3)
+      1. Type: python max_subarray_algs.py filename.txt (Note: enumeration and iteration will take a significant amount of time to complete - O(n^3))
       2. Example usage: python max_subarray_algs.py num_array_500.txt
       
