@@ -48,3 +48,10 @@ Use:
       1. Type: python max_subarray_algs.py filename.txt (Note: enumeration and iteration will take a significant amount of time to complete - O(n^3))
       2. Example usage: python max_subarray_algs.py num_array_500.txt
       
+4/17/2023 - HuffmanCode directory added
+Implemented Huffman Code using the Gettysburg Address as an example.
+Use:
+  - Download the directory
+  - Run huffman.py
+  - Note: if desiring to encode a different text document, simply add it to the directory and replace the file being read within the python file.
+  - Note: Cost is indicated as TODO. Will not calculate the cost of the code at this time.
