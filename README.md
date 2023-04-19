@@ -36,9 +36,11 @@ Use:
   - Must have Node installed.
   - Download the full directory (recommended)
   - Open terminal and follow these steps:
-      1. cd BasicReactWebApp
-      2. npm install
-      3. npm start
+```bash
+      $> cd BasicReactWebApp
+      $> npm install
+      $> npm start
+```
       
 4/16/2023 - MaxSubarray directory added
 These directories and files run different algorithmic approaches to the maximum subarray problem.
