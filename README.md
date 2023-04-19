@@ -37,9 +37,9 @@ Use:
   - Download the full directory (recommended)
   - Open terminal and follow these steps:
 ```bash
-      $> cd BasicReactWebApp
-      $> npm install
-      $> npm start
+$> cd BasicReactWebApp
+$> npm install
+$> npm start
 ```
       
 4/16/2023 - MaxSubarray directory added
@@ -58,7 +58,7 @@ Use:
   - Note: if desiring to encode a different text document, simply add it to the directory and replace the file being read within the python file.
   - Note: Cost is indicated as TODO. Will not calculate the cost of the code at this time.
   
-4/19/2023
+4/19/2023 - CoffeeStoreDatabaseProject directory added
 Portfolio project from CS340 with help of co-author, Tyler Eto.
 Use:
 ```bash
