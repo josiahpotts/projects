@@ -55,3 +55,22 @@ Use:
   - Run huffman.py
   - Note: if desiring to encode a different text document, simply add it to the directory and replace the file being read within the python file.
   - Note: Cost is indicated as TODO. Will not calculate the cost of the code at this time.
+  
+4/19/2023
+Portfolio project from CS340 with help of co-author, Tyler Eto.
+Use:
+```bash
+# express rest api
+$> cd rest
+$> nvm use v14.17.6
+$> npm install
+$> node app.js
+```
+```bash
+# react ui
+$> cd ui
+$> nvm use v14.17.6
+$> npm install
+$> npm start
+```
+  - Note: phpMyAdmin database no longer accessable on school servers. Will edit to new database in upcoming versons.
