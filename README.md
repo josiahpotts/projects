@@ -76,3 +76,9 @@ $> npm install
 $> npm start
 ```
   - Note: phpMyAdmin database no longer accessable on school servers. Will edit to new database in upcoming versons.
+  
+4/20/2023 - MinHeap directory added
+This is a portfolio project from CS261 Data Structures -- Test code was provided by instructor.
+Use:
+  - Download directory.
+  - Run min_heap.py (test cases already established in the file)
