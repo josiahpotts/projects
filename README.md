@@ -82,3 +82,9 @@ This is a portfolio project from CS261 Data Structures -- Test code was provided
 Use:
   - Download directory.
   - Run min_heap.py (test cases already established in the file)
+  
+4/23/2023 - Trees directory added
+This holds files with AVL and BST data structures, as well as a queue and stack file for use within those trees.
+Use:
+  - Download directory.
+  - Run either avl.py or bst.py individually (test cases already established in the file)
