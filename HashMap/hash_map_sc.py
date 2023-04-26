@@ -471,21 +471,21 @@ if __name__ == "__main__":
     m.resize_table(2)
     print(m.get_keys_and_values())
 
-    print("\nPDF - find_mode example 1")
-    print("-----------------------------")
-    da = DynamicArray(["apple", "apple", "grape", "melon", "melon", "peach"])
-    mode, frequency = find_mode(da)
-    print(f"Input: {da}\nMode : {mode}, Frequency: {frequency}")
+    #print("\nPDF - find_mode example 1")
+    #print("-----------------------------")
+    #da = DynamicArray(["apple", "apple", "grape", "melon", "melon", "peach"])
+    #mode, frequency = find_mode(da)
+    #print(f"Input: {da}\nMode : {mode}, Frequency: {frequency}")
 
-    print("\nPDF - find_mode example 2")
-    print("-----------------------------")
-    test_cases = (
-        ["Arch", "Manjaro", "Manjaro", "Mint", "Mint", "Mint", "Ubuntu", "Ubuntu", "Ubuntu", "Ubuntu"],
-        ["one", "two", "three", "four", "five"],
-        ["2", "4", "2", "6", "8", "4", "1", "3", "4", "5", "7", "3", "3", "2"]
-    )
+    #print("\nPDF - find_mode example 2")
+    #print("-----------------------------")
+    #test_cases = (
+    #    ["Arch", "Manjaro", "Manjaro", "Mint", "Mint", "Mint", "Ubuntu", "Ubuntu", "Ubuntu", "Ubuntu"],
+    #    ["one", "two", "three", "four", "five"],
+    #    ["2", "4", "2", "6", "8", "4", "1", "3", "4", "5", "7", "3", "3", "2"]
+    #)
 
-    for case in test_cases:
-        da = DynamicArray(case)
-        mode, frequency = find_mode(da)
-        print(f"Input: {da}\nMode : {mode}, Frequency: {frequency}\n")
+    #for case in test_cases:
+    #    da = DynamicArray(case)
+    #    mode, frequency = find_mode(da)
+    #    print(f"Input: {da}\nMode : {mode}, Frequency: {frequency}\n")
