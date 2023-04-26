@@ -88,3 +88,10 @@ This holds files with AVL and BST data structures, as well as a queue and stack 
 Use:
   - Download directory.
   - Run either avl.py or bst.py individually (test cases already established in the file)
+  
+4/26/2023 - HashMap directory added
+This is a portfolio project from CS261 Data Structures -- Test code was provided by instructor.
+Use:
+  - Download directory.
+  - Run hash_map_oa.py to see Open Addressing approach tests.
+  - Run hash_map_sc.py to see Linked List approach tests.
