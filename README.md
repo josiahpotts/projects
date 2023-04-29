@@ -95,3 +95,11 @@ Use:
   - Download directory.
   - Run hash_map_oa.py to see Open Addressing approach tests.
   - Run hash_map_sc.py to see Linked List approach tests.
+  
+4/29/2023 - RDT directory added
+This is a portfolio project from Networking class -- Reliable Data Transfer
+Use:
+  - Download directory.
+  - "dataToSend" in rdt_main.py variable set to Gettysburg Address, comment out and put whatever string you want, or run as is.
+  - Run rdt_main.py
+  - Notes: segment.py and unreliable.py represent simulated packet segments and an unreliable network channel.(Provided by instructor)
