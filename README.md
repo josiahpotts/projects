@@ -103,3 +103,14 @@ Use:
   - "dataToSend" in rdt_main.py variable set to Gettysburg Address, comment out and put whatever string you want, or run as is.
   - Run rdt_main.py
   - Notes: segment.py and unreliable.py represent simulated packet segments and an unreliable network channel.(Provided by instructor)
+
+6/26/2024 - SmallShell directory added
+This is a portfolio project from Operating Systems II -- I am the author of entire code.
+Use: 
+  - Download directory.
+  - Run these commands:
+      `gcc -o smallsh smallsh.c`
+      `./smallsh`
+What can I do with this small shell?
+  1. The `cd`, `exit`, and `status` commands (status will show the status code of the last command).
+  2. All other linux commands will be run through the bash shell.
