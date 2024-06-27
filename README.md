@@ -112,5 +112,5 @@ Use:
       `gcc -o smallsh smallsh.c`
       `./smallsh`
 What can I do with this small shell?
-  1. The `cd`, `exit`, and `status` commands (status will show the status code of the last command).
-  2. All other linux commands will be run through the bash shell.
+    1. The `cd`, `exit`, and `status` commands (status will show the status code of the last command).
+    2. All other linux commands will be run through the bash shell.
